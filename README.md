@@ -8,7 +8,6 @@ This portfolio showcases my skills, projects, and background — designed to hel
 ## 🚀 Live Website
 
 👉 [Visit My Portfolio](https://your-portfolio-link.netlify.app)  
-*(Replace this with your actual live link)*
 
 ---
 
